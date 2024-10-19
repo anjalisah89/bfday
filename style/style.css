@@ -6,11 +6,15 @@ body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
   background: #000;
-  
 }
-canvas{display:block}
-h1,h3,h5,p {
- color: #fff;
+canvas {
+  display: block;
+}
+h1,
+h3,
+h5,
+p {
+  color: #fff;
 }
 .container {
   height: 100vh;
@@ -72,7 +76,6 @@ h1,h3,h5,p {
   position: absolute;
   top: 40%;
   padding-right: 40%;
-
 }
 
 .text-box p {
@@ -154,7 +157,7 @@ h1,h3,h5,p {
 
 /* Media Queries */
 @media screen and (max-height: 1000px) {
-  body{
+  body {
     overflow: hidden;
   }
   .six .hat {

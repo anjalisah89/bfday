@@ -1,6 +1,5 @@
 // Animation Timeline
 const animationTimeline = () => {
-
   const ideaTextTrans = {
     opacity: 0,
     y: -20,
